@@ -71,7 +71,6 @@
 
 ---
 
-[![Build status](https://ci.appveyor.com/api/projects/status/7o80nq9161a7dfcx/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ahj-6-1-lj7gw/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/m4ytni7jd8hj1ij1/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ahj-6-1/branch/main)
 
-
-https://222alexa.github.io/AHJ-6.1/
+https://nikitakurys.github.io/AHJ-6.1/
